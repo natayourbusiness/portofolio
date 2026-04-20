@@ -54,7 +54,7 @@ if page == "Profil Profesional":
     col1, col2 = st.columns([1, 2], gap="large")
     
     with col1:
-        st.image(r"C:\Users\lenovo\Downloads\X\porto\Fotoaman.jpg", use_container_width=True)
+        st.image(r"https://drive.google.com/file/d/1bHGfMCnygT46Bv3pF-i_n3rebAZHLC0Y/view?usp=drive_link", use_container_width=True)
         st.success("📍 Domisili Saat Ini: Jawa Tengah")
 
     with col2:
